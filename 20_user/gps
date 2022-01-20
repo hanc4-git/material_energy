@@ -1,0 +1,11 @@
+# Macro gps
+/gps/particle         gamma
+/gps/direction        0 0 1
+/gps/energy           0.662 MeV
+/gps/pos/centre       0 0 0 cm
+/gps/ene/type         User
+/gps/hist/type        energy
+
+/gps/hist/point       0.662 0.662
+
+/run/beamOn           1000
